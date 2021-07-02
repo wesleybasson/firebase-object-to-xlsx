@@ -1,0 +1,16 @@
+{
+  "name": "ticket_reporter",
+  "version": "1.0.0",
+  "description": "Ticket extractor from json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley Basson",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "lodash": "^4.17.21",
+    "xlsx": "^0.17.0"
+  }
+}
